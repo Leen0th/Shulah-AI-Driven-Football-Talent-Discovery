@@ -48,27 +48,66 @@ This repository contains the following components:
    ```bash
    git clone https://github.com/Leen0th/Shulah-AI-Driven-Football-Talent-Discovery.git
    cd Shulah-AI-Driven-Football-Talent-Discovery
-   ```bash
+
    
 2. **Frontend Setup**:
   ```bash
   cd frontend
   npm install
   npm start
-  ```bash
+
 
 3. **Backend Setup**:
   ```bash
   cd backend
-  ***
-  ***
-  ```bash   
 
-## Usage
-1. Players: Upload a 1-3 minute video clip of your training or match performance via the frontend interface.
-2. AI Analysis: The backend processes the video, extracting metrics like passes, ball touches, and speed.
-3. View Insights: Access personalized feedback, performance trends, and market value predictions.
-4. Coaches: Use the coach dashboard to review player stats and optimize team selection.
+
+
+## 🚀 Usage
+
+### 🎮 For Players:
+
+1. **Record Your Performance**  
+   Capture a short video (1–3 minutes) of your match or training session.
+
+2. **Upload via App**  
+   Open the Shu'lah mobile app and upload your video through the "Upload" screen.
+
+3. **AI-Powered Analysis**  
+   The backend processes the video using pre-trained AI models to extract key performance metrics such as:
+   - Speed
+   - Ball touches
+   - Passes
+   - Possession time
+
+4. **View Insights & Recommendations**  
+   Once the analysis is complete, access a detailed performance report that includes:
+   - Personalized improvement suggestions
+   - Market value predictions
+   - Performance trends over time
+
+---
+
+### 🧠 For Coaches:
+
+1. **Visit the Coach Dashboard**  
+   Access the mockup dashboard here:  
+   👉 [https://shulahcoach.netlify.app/](https://shulahcoach.netlify.app/)
+
+2. **Explore Player Profiles (UI)**  
+   Browse through sample player profiles and see what the full version will offer:
+   - Match stats (mocked)
+   - Technical and tactical feedback
+   - Visual breakdowns of key metrics
+
+3. **Plan Future Integration**  
+   Use this prototype to envision how coaches will soon:
+   - Discover new talents
+   - Compare players side-by-side
+   - Receive AI suggestions for team optimization
+
+> Note: The current coach dashboard is a front-end prototype. Full backend integration is planned for future development.
+
 
 ## Mockup Website
 The coach dashboard mockup is live at https://shulahcoach.netlify.app/.

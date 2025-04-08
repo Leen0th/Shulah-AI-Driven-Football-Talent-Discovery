@@ -12,10 +12,7 @@ Shu'lah is an innovative AI-powered platform designed to revolutionize football 
 - [Usage](#usage)
 - [Technical Tools](#technical-tools)
 - [Mockup Website](#mockup-website)
-- [Requirements](#requirements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## About Shu'lah
 

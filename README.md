@@ -111,7 +111,7 @@ The coach dashboard mockup is live at https://shulahcoach.netlify.app/.
 It showcases a preliminary design for coaches to manage teams, view player statistics, and receive AI-driven recommendations for optimal team formations.
 
 
-> _"Shu’lah breaks the barriers of missed talent and paves the way for a smarter, more inclusive football future where every star can rise."_
+_"Shu’lah breaks the barriers of missed talent and paves the way for a smarter, more inclusive football future where every star can rise."_
 
 
    

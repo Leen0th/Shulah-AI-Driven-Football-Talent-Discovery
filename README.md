@@ -1,3 +1,4 @@
+
 # Shu'lah - AI-Driven Football Talent Discovery
 
 **Fair, Smart, and Unbiased - The Next Era of Football Analytics**
@@ -48,20 +49,16 @@ This repository contains the following components:
    ```bash
    git clone https://github.com/Leen0th/Shulah-AI-Driven-Football-Talent-Discovery.git
    cd Shulah-AI-Driven-Football-Talent-Discovery
-
-   
+ 
 2. **Frontend Setup**:
-  ```bash
-  cd frontend
-  npm install
-  npm start
-
+	```bash
+	  cd frontend
+	  npm install
+	  npm start
 
 3. **Backend Setup**:
-  ```bash
-  cd backend
-
-
+	  ```bash
+	  cd backend
 
 ## Usage
 

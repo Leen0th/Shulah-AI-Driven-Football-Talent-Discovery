@@ -63,9 +63,9 @@ This repository contains the following components:
 
 
 
-## 🚀 Usage
+## Usage
 
-### 🎮 For Players:
+### For Players:
 
 1. **Record Your Performance**  
    Capture a short video (1–3 minutes) of your match or training session.
@@ -88,11 +88,11 @@ This repository contains the following components:
 
 ---
 
-### 🧠 For Coaches:
+### For Coaches:
 
 1. **Visit the Coach Dashboard**  
    Access the mockup dashboard here:  
-   👉 [https://shulahcoach.netlify.app/](https://shulahcoach.netlify.app/)
+   [https://shulahcoach.netlify.app/](https://shulahcoach.netlify.app/)
 
 2. **Explore Player Profiles (UI)**  
    Browse through sample player profiles and see what the full version will offer:

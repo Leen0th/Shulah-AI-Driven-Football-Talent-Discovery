@@ -48,18 +48,21 @@ This repository contains the following components:
    ```bash
    git clone https://github.com/Leen0th/Shulah-AI-Driven-Football-Talent-Discovery.git
    cd Shulah-AI-Driven-Football-Talent-Discovery
+   ```bash
    
 2. **Frontend Setup**:
   ```bash
   cd frontend
   npm install
   npm start
+  ```bash
 
 3. **Backend Setup**:
   ```bash
   cd backend
   ***
   ***
+  ```bash   
 
 ## Usage
 1. Players: Upload a 1-3 minute video clip of your training or match performance via the frontend interface.

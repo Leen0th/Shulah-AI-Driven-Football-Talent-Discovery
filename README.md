@@ -58,6 +58,7 @@ This repository contains the following components:
 3. **Backend Setup**:
 	  ```bash
 	  cd backend
+          ./mvnw spring-boot:run
 
 ## Usage
 

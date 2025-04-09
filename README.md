@@ -51,9 +51,9 @@ This repository contains the following components:
  
 2. **Frontend Setup**:
 	```bash
-	  cd frontend
-	  npm install
-	  npm start
+	cd frontend
+	npm install
+	npm start
 
 3. **Backend Setup**:
 	  ```bash

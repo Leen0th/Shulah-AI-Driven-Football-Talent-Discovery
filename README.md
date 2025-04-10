@@ -51,7 +51,7 @@ This repository contains the following components:
  
 2. **Frontend Setup**:
 	```bash
-	cd frontend
+	cd Frontend
 	npm install
 	npm start
 

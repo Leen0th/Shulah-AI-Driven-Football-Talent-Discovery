@@ -91,8 +91,7 @@ class _UploadPageState extends State<UploadPage> {
         setState(() {
           _backendResponse = jsonResult;
           var analysis = jsonResult['analysisResult'];
-          _analysisResult = "Passing Accuracy: ${(analysis['passingAccuracy'] * 100).toStringAsFixed(2)}%\n" "Player Speeds: ${analysis['playerSpeeds'].toString()}\n" +
-              "Ball Possession: ${analysis['ballPossessionTime'].toString()}";
+          _analysisResult = "Passing Accuracy: ${(analysis['passingAccuracy'] * 100).toStringAsFixed(2)}%\n" "Player Speeds: ${analysis['playerSpeeds'].toString()}\n" "Ball Possession: ${analysis['ballPossessionTime'].toString()}";
         });
       } else {
         setState(() {

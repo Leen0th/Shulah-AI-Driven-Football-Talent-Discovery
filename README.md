@@ -51,13 +51,14 @@ This repository contains the following components:
  
 2. **Frontend Setup**:
 	```bash
-	  cd frontend
-	  npm install
-	  npm start
+	cd Frontend
+	npm install
+	npm start
 
 3. **Backend Setup**:
 	  ```bash
 	  cd backend
+	./mvnw spring-boot:run
 
 ## Usage
 
